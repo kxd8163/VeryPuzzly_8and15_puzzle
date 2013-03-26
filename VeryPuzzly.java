@@ -3,7 +3,7 @@
 *
 * @version   $1.0$
 *
-* @author    Karina Damico
+* @author    Karina Damico & Ravdeep Johar
 *
 * Revisions:
 *       $Log$
